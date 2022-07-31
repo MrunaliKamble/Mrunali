@@ -19,6 +19,7 @@ public class Armtrong_Number {
 		{
 			System.out.println("given number " + num + " is not an armstrong number");
 		}
+		// Mahesh Manchakrao Magar
 	}
 	
 
